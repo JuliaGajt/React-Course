@@ -1,0 +1,14 @@
+.goal-item{
+    text-align: left;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    margin: 1rem auto;
+    padding: 1rem;
+    width: 90%;
+    min-height: 20px;
+    max-width: 95%;
+    background-color: rgb(209, 190, 255);
+}
+
+.goal-tem__description {
+    font-size: large;
+}
